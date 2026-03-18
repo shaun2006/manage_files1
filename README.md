@@ -1,2 +1,2 @@
-# manage_files1
+# manage_files
 A script that can manage files 
